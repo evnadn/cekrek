@@ -1,8 +1,5 @@
 ## Tugas Project Team 4 Web Programming - Binus University
-- EVAN ADRIAN
-- MUHAMMAD AINUR ROZIQIN TAHITYA
-- WILBERT GILCHRIST SYARANAMUAL
-- FLORIBERTUS BASFIANTO
+
 
 ### Step by step using this project
 - Clone project ini
